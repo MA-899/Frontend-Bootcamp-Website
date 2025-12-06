@@ -1,0 +1,28 @@
+@media(min-width: 768px){
+	.email-input {
+		width: 50%;
+	}
+}
+
+img.frontend {
+	width: 100%;
+}
+
+.fund-text {
+	width: 70%;
+}
+
+body::before {
+	display: block;
+	content: '';
+	height: 60px;
+}
+
+.my-img {
+	width: 100px;
+	height: 150px;
+	border-radius: 50%;
+}
+
+#map { height: 240px; }
+
